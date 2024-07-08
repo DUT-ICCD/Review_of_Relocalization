@@ -1,2 +1,2 @@
 # Review_of_Relocalization
-A comprehensive review on camera relocalization.
+A comprehensive review on camera relocalization. Coming soon.
